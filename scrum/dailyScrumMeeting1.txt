@@ -1,0 +1,74 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 25, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Nov 26, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 27, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Nov 28, 2016
+	Yesterday : No work was done until today, as I was busy with personal events.
+	Today     : I completed a large portion of the save function. Currently I can produce a general output for every shape created, which
+	displays the color, if its filled the static information (shape type), and the beginning and end of the document. The save feature 
+	should be completed by the next day.
+	Obstacles : I ran into the bug1, where files failed to generate/save text onto them, however after reviewing my notes and re-reading 
+	my code, I realized I had failed to close the writer for the file. 
+	
+Nov 29, 2016
+	Yesterday : I completed a large portion of the save function for the general output shared amongst shapes.
+	Today     : I completed the save function such that it produces a file when saved that matches the desired style and requirements 
+	for reading a file. All aspects are output that are required are sent as a text file. I also answered the 1st question in the float point 
+	solution. I had explained with detail and examples the issue with the code.
+	Obstacles : When writing the save file, there were issues with the output of the objects, which were easily solved. I also required a review
+	of floating point numbers to understand what was occurring in the part 1 question 1, to located the issue.
+
+Nov 30, 2016
+	Yesterday : I completed the save functionality and answered the issue with the 7/11 problem.
+	Today     : Small changes to the save command were made and the last question for the second problem's third question was answered. 
+	I merged all of my completed functions and explanations to the master, as they were all completed and ready for deployment, and very 
+	little work was done due to classes and other course work and education.
+	Obstacles : I ran into issues with the third question, as the representation of the decimals needed to be rounded, which had to be 
+	fixed, as there is only a finite binary representation for the infinite decimal representation.
+
+Dec 1, 2016
+	Yesterday : Finished save functionality, and explanations. Merged to master.
+	Today     : Very little time was available today resulting in commenting and java docs. Reviewed code and debugged the 
+	current version of the project. Tomorrow will attempt to find a better and faster solution to the second problem of the second question.
+	Obstacles : No obstacles, but the second problem needs work. 
+	
+Dec 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+=======
